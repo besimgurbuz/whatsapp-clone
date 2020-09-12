@@ -39,6 +39,10 @@
   background-color: #dcf8c6;
 }
 
+.chat_message {
+  margin-bottom: 10px;
+}
+
 .chat_message > .chat_name {
   position: absolute;
   font-size: x-small;
