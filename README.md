@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This app created from a [youtube video](https://www.youtube.com/watch?v=pUxrDcITyjg). Some parts changed by me.
 
 ## Available Scripts
 
